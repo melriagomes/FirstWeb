@@ -1,0 +1,33 @@
+body{
+    background: #9f4125;
+    margin: 0;
+}
+
+#main-div{
+    background:#382020;
+    width: 70%;
+    height: 500px;
+    margin-left: 15%;
+    border: solid #cda47b 1px;
+}
+
+#name{
+    color: #cda47b;
+    text-align: center;
+    /* border: solid #cda47b 1px; */
+    /* margin-top: 10px; */
+    padding-top: 25px;
+    font: 'serif';
+    font-size: 48px;
+    font-weight: 700;
+}
+
+hr{
+    /* color: solid #cda47b; */
+    width: 90%;
+    margin-left: 5%;
+}
+
+p{
+    color: #cda47b;
+}
